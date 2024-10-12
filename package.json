@@ -1,0 +1,24 @@
+{
+  "name": "learn-react",
+  "version": "1.0.0",
+  "description": "Learn react from zero to hero.",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "test": "jest"
+  },
+  "keywords": [
+    "learn",
+    "react"
+  ],
+  "author": "Sonu Kumar",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
